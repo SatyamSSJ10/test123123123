@@ -1,0 +1,98 @@
+kind: Manga
+title: Haimiya-Senpai is Scary And Cute [Serialization]
+cover: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/resolve/main/cover.jpg
+alt title:
+  - Haimiya-Senpai is Scary And Cute
+  - 灰宮先輩は怖くてかわいい
+author: Sumutemu
+artist: Sumutemu
+description: My School's Haimiya-Senpai is feared of, and considered Scary. It might be because of her intimidating appearance and her blunt way of speaking... and those sparkling piercings! Long gray-wolf cut hair!! And her intimidating Kansai dialect!!! But for some reason, this Scary Senpai treats me kindly-!? "Scary" turns into "Cute". A Scary Heart-Fluttering Senpai Romcom Begins!
+tags:
+  - Romance
+  - Slice of life
+  - Comedy
+  - Romcom
+  - School life
+  - School
+status: ongoing
+sources:
+  - name: raw
+    link: https://www.manga-up.com/titles/1626
+  - name: discord
+    link: https://discord.gg/jf27N9ppMr
+
+chapters:
+  - number: 1
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-1
+  - number: 2
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-2
+  - number: 3
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-3
+  - number: 4
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-4
+  - number: 5
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-5
+  - number: 6
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-6
+  - number: 7
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-7
+  - number: 8
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-8
+  - number: 8.5
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-8-5
+  - number: 9
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-9
+  - number: 9.5
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-9-5
+  - number: 10
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-10
+  - number: 11
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-11
+  - number: 12
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-12
+  - number: 13
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-13
+  - number: 14
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-14
+  - number: 14.5
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-14-5
+  - number: 15
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-15
+  - number: 16
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-16
+  - number: 17
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-17
+  - number: 18
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-18
+  - number: 19
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-19
+  - number: 20
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-20
+  - number: 21
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-21
+  - number: 22
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-22
+  - number: 23
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-23
+  - number: 24
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-24
+  - number: 25
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-25
+  - number: 25.5
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-25-5
+  - number: 26
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-26
+  - number: 27
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-27
+  - number: 28
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-28
+  - number: 29
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-29
+  - number: 29.1
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-29-1
+  - number: 30
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-30
+  - number: 31
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-31
+  - number: 32
+    link: https://huggingface.co/datasets/SatyamSSJ10/example-dataset/tree/main/chapter-32
